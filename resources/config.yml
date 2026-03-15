@@ -1,0 +1,19 @@
+form:
+  title: "&6Server Rules"
+
+  content: |
+    &ePlease follow these rules:
+
+    &f1. &cDo not cheat or hack
+    &f2. &cRespect all players
+    &f3. &cNo spamming or advertising
+    &f4. &cListen to staff members
+    &f5. &cKeep chat appropriate
+
+    &aBreaking rules may result in punishment.
+
+  close-button: "&cClose"
+
+messages:
+  open: "&eOpening server rules..."
+  close: "&7You can view the rules anytime using &a/rules"
